@@ -1,0 +1,78 @@
+HOW TO SETUP MINECRAFT IF YOU ARE A BLIND EPIC GAMER:
+
+Requirements: 
+A computer.
+A Minecraft account. This costs $27 sadly. I may be able to supply you a temporary account though!
+An internet connection.
+The AudioAccess modpack.
+If you are buying Minecraft, you need to have a Microsoft account. The instructions to buy one are included below.
+
+Step 1: Run and complete the Minecraft Launcher Installer. Also make sure Windows Scaling is set to 100%. You can change this by pressing the Windows Key, typing "Scaling" and pressing "Make Everything Bigger". This will open settings and allow you to change the scaling of Windows.
+Step 2: Run and complete the Java Installer.
+Step 3: Open the Minecraft Launcher and sign in. To purchase account, go to "https://www.minecraft.net/store/minecraft-java-edition/buy". You should be able to log into your microsoft account from there and register! You can also alternatevly log into your Microsoft account, though it will be running the free version of Minecraft.
+Step 4: Check to make sure Minecraft 1.17.1/Latest Release, is selected. Run the game and wait for it to load, and then close it once loaded (you should be able to hear music playing when it has been loaded). This is because the Fabric Client Installer, the client that is capable of running these mods, requires that you run the latest version of Minecraft for it to properly install.
+Step 5: Run the Fabric Client installer.
+Step 6: Move the provided "Mods" folder into "%appdata%/.minecraft"
+Step 7: Move the provided "options.txt" into "%appdata%/.minecraft"
+Step 8: Move both of the "NVDA Controller Client DLL" files into "%appdata%/.minecraft". This is for if you use the amazing NVDA application for using your pc. If you don't, you cannot change the speech rate of the built-in Minecraft Narrator.
+Step 9: Open The Minecraft Launcher. Make sure to select "Fabric-Loader-1.17.1" before you launch the game.
+Step 10: Press "Control Plus B" to enable and cycle through narrator options ingame.
+Step 11: Select the singleplayer option to play by yourself, and press the listed buttons to toggle between options.
+
+KEYBIND HELP, ALL OF THESE CAN BE CHANGED IN 'Options, Controls'
+You can use the following to control the camera, change these if you don't have a numpad:
+8 on the numpad makes you look upwards.
+6 on the numpad makes you look right.
+2 on the numpad makes you look down.
+4 on the numpad makes you look left.
+5 on the numpad makes you look straight.
+7 on the numpad makes you look north.
+9 on the numpad makes you look east.
+1 on the numpad makes you look south.
+3 on the numpad makes you look west.
+
+The following are for inventory control:
+Use E to access the inventory.
+Use Z to left click whilst inside of the inventory. When Left Clicking an item, it toggles between the item being on the cursor, and off the cursor. You can use this to move large amounts of items to different slots of your inventory all at once.
+Use X to right click whilst inside of the inventory. Right click places a single item from the cursor, onto whatever slot you are hovering over in your inventory. Right clicking a stack of multiple items takes half of the stack and puts them onto the cursor.
+Use tab and shift tab to navigate through the groups of the inventory.
+Use the arrow keys to navigate the currently selected group of the inventory.
+Home, goes to the first slot / group.
+End, goes to the last slot / group.
+W, moves up 1 row.
+S, woves down 1 row.
+A, moves left 1 column.
+D, moves right 1 column.
+TRADING MENU KEYS, THIS IS FOR VILLAGERS, SO IGNORE THIS PART IF YOU ARE JUST STARTING OUT:
+R, scroll up by 1.
+F, Scroll down by 1.
+RECIPE BOOK KEYS, The Recipe Book is for instantly crafting items. Clicking on the item you want to craft whilst inside of the recipe book will place all of the required ingredients into the correct order in your crafting grid, provided you have the required materials. This will also put the item you are trying to make into the Crafting Output slot on your inventory, navigated to via "tab" and "shift-tab".
+R, next page of the recipe book.
+F, previous page of the recipe book.
+C, toggles the recipe book menu being displayed.
+V, toggles between "show all" and "show craftable" options. "Show craftable" only shows items you can craft. You can take a guess on what "Show all" does.
+Enter, disables the searching mode of the recipe book. Re-open the book to go back to the searching mode.
+LECTERNS AND BOOKS KEYS, these keys currently don't matter as books currently cannot be used due to bugs, making it the same for lecterns.
+R, reads the current page.
+A, goes to the previous page.
+D, goes to the next page.
+ENCHANTING TABLE KEYS, this is also a pretty late game keybind list, so come back whenever you are willing to get some nifty enchants. 
+W, previous enchant.
+S, next enchant. There are a total of 3 enchants viewable at a time.
+
+
+The following is keybinds from mods:
+g, reads your coordinates. X is your left and right values, Y is your up and down values, and Z is your forward and backward values. You can also use X, Y, And Z seperately to get their specific corrosponding coordinate values.
+m, opens Easy Life configuration.
+h, reads the direction you are facing.
+r, reads your health and hunger.
+F4, opens the Easy Life Narrator menu.
+n, opens the Accessibility Plus config.
+b, opens the Accessibility Plus Extended config. Do this!
+y, Makes your camera lock onto and follow the closest entity within 10 blocks. Alt-y stops this tracking.
+
+
+OTHER: 
+If you need more help or want to give me feedback please message me on discord at GreenBeanGravy#4553. Also, make sure to read the other provided text files!
+
+Finally, I hope you have the best possible experience on Minecraft. If the game is currently only mildly playable, expect more in the future. This has been GreenBean, and have a nice rest of your day, Smiley Face.

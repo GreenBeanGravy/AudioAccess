@@ -1,0 +1,9 @@
+This is a general guide to Minecraft! Read this after you have setup the game. If you haven't, read the "setup.txt" readme.
+Let's get started!
+
+Specific blocks may require specific types and tiers of tools for you to obtain the block. For example, to break and collect stone, you need any type of pickaxe, starting at wooden. Iron ore requires a stone pickaxe to be broken, diamonds, emeralds, and gold all require an Iron Pickaxe, and Obsidian and Netherite require a diamond pickaxe. You can use a diamond pickaxe to collect all blocks other than bedrock, as bedrock is unbreakable.
+Any type of wood does not require anything specific to break it.
+The higher tier a tool/weapon is, the more damage it does! You can view the damage amounts by hovering your cursor over the tool/weapon in your inventory menu.
+Deserts do not have trees! If you find copius amounts of sand and/or cactus, you're in a desert.
+
+That's basically it! I will update this readme as needed, but I wanted to get it out there for some people since they do not understand what to do and what specific things do what. Thanks for reading, and let me know what else I should add either to this readme, or any of the other ones!

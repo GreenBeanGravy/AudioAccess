@@ -1,0 +1,28 @@
+Below are the instructions you need to play on the new and improved, public blind Minecraft Server. If you have questions or need help, feel free to contact me on AudioGames.net and Discord. You are more likely to get a faster response on Discord.
+
+Step 1: Make sure you have all of the up-to-date files from the GitHub page, if you see this text, you don't need to do anything.
+Step 2: Open Minecraft on Fabric 1.17.1! If you don't know how, follow the "setup.txt" file instructions and then come back.
+Step 3: Once the game has launched, head over to the multiplayer button using tab and then press enter. Minecraft may give you a warning about Mutliplayer, which you can safely skip past. If you are on Windows, a new window may have popped up asking if Java can use the internet, make sure to allow this.
+Step 4: Use Tab to locate the "Add Server" button.
+Step 5: From here, you can call the server whatever you like, but in the Server Address text field, type or copy paste this into it: blind.epicgamer.org
+Step 6: Ignore the Server Resource button, navigate to the "Done" button and press Enter.
+Step 7: Select the server from the server list, and use tab to navigate to the "Join Server" button.
+Step 8: Press Enter, welcome! You are located at the spawn of the server.
+Step 9: Read the below commands for the server.
+
+Commands. If commands don't work, make sure you only have one forward-slash inside of the text field. The text field is accessed by using T.
+
+You can use the command "/rtp" to be randomly teleported into the wild.
+You can use the command "/tpa playername" to request to teleport to someone, in which the so called person recieves a message to accept the teleport. DO NOT move during any sort of teleporting as this will cancel it.
+You can use the command "/spawn" to be instantly teleported back to the spawn.
+You can use the command "/sethome homename" to set a waypoint wherever you are standing. You can use the command "/home homename" to teleport to these waypoints, and "/homes" to see a list of waypoints you have set.
+You can use the command "/back" to go back to your death location when you die. All items are kept if you die.
+You can use the command "/jobs browse" to select a job you would like to join. Jobs give you money which will be used for a server shop in a few days time.
+You can use the command "/bal" to check your balance.
+You can use the command "/bottle store xpamount" to store xp levels into bottles, which can be used to give xp to other players.
+
+Quality of Life server addons:
+Auto Pickup block drops, xp drops, and mob drops.
+Decreased underwater mob spawns for a better mob-tracking experience.
+Keep Inventory to never lose items whenever you die.
+Automatically lowered render distance for higher server and client performance.

@@ -1,0 +1,42 @@
+THIS RECIPE REQUIREMENT LIST CONTAINS THE NESSESARY RESOURCES TO CRAFT THE ITEMS BELOW. PLEASE USE THE RECIPE BOOK AND SWITCH TO "SHOW CRAFTABLE" ONCE YOU HAVE THE REQUIRED ITEMS.
+
+RECIPE BOOK KEYS:
+R, next page.
+F, previous page.
+C, opens/closes the recipe book.
+V, toggles between "show all" and "show craftable" options. "Show craftable" only shows items you can craft.
+Enter, disables the searching mode.
+
+Tool Recipes Below:
+
+Pickaxes: Pickaxes require 3 of the main material, whether it be any type of wooden plank, cobblestone, iron ingots, gold ingots, or diamonds, and it also requires 2 sticks.
+
+Axes: Axes require 3 of the main material, whether it be any type of wooden plank, cobblestone, iron ingots, gold ingots, or diamonds, and it also requires 2 sticks.
+
+Shovels: Shovels require 1 of the main material, whether it be any type of wooden plank, cobblestone, iron ingots, gold ingots, or diamonds, and it also requires 2 sticks.
+
+Swords: Swords require 2 of the main material, whether it be any type of wooden plank, cobblestone, iron ingots, gold ingots, or diamonds, and it also requires 1 stick.
+
+Hoes: Hoes require 2 of the main material, whether it be any type of wooden plank, cobblestone, iron ingots, gold ingots, or diamonds, and it also requires 2 sticks.
+
+Essentials Below:
+
+Crafting Table: A crafting table requires 4 wooden planks of any kind to make. If you do not have a crafting table or need to make another, fill the entire inventory crafting grid with any type of planks to create one.
+
+Furnace: A furnace requires 8 cobblestone to create.
+
+Planks: Planks require 1 of any type of log. Put the log into any of the grid squares in the crafting grid to create 4 planks.
+
+Sticks: Sticks require 2 planks of any type to be created. Put 1 plank atop another in the crafting grid to create.
+
+Armor Below:
+
+Helmet: Helmets require 5 of the main material to create,  whether it be leather, iron ingots, gold ingots, or diamonds.
+
+Chestplate: Chestplates require 8 of the main material to create, whether it be leather, iron ingots, gold ingots, or diamonds.
+
+Leggings: Leggins require 7 of the main material to create, whether it be leather, iron ingots, gold ingots, or diamonds.
+
+Boots: Boots require 4 of the main material to create, whether it be leather, iron ingots, gold ingots, or diamonds.\
+
+I hope this helps!
