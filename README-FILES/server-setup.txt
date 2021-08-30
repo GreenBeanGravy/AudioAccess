@@ -12,7 +12,7 @@ Step 9: Read the below commands for the server.
 
 Commands. If commands don't work, make sure you only have one forward-slash inside of the text field. The text field is accessed by using T.
 
-You can use the command "/rtp" to be randomly teleported into the wild.
+You can use the command "/rtp" to be randomly teleported into the wild. Make sure to run this command whenever you join the server for the first time.
 You can use the command "/tpa playername" to request to teleport to someone, in which the so called person recieves a message to accept the teleport. DO NOT move during any sort of teleporting as this will cancel it.
 You can use the command "/spawn" to be instantly teleported back to the spawn.
 You can use the command "/sethome homename" to set a waypoint wherever you are standing. You can use the command "/home homename" to teleport to these waypoints, and "/homes" to see a list of waypoints you have set.
