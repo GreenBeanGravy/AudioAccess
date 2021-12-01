@@ -2,21 +2,20 @@ HOW TO SETUP MINECRAFT IF YOU ARE A BLIND EPIC GAMER:
 
 Requirements: 
 A computer.
-A Minecraft account. This costs $27 sadly. I may be able to supply you a temporary account though!
+A Minecraft account. This costs $27 sadly. You can get Minecraft Java from Xbox Gamepass as an alternative. There may be a deal on Xbox Gamepass giving 3 months of gamepass for $1.
 An internet connection.
-The AudioAccess modpack.
 If you are buying Minecraft, you need to have a Microsoft account. The instructions to buy one are included below.
 
-Step 1: Run and complete the Minecraft Launcher Installer. Also make sure Windows Scaling is set to 100%. You can change this by pressing the Windows Key, typing "Scaling" and pressing "Make Everything Bigger". This will open settings and allow you to change the scaling of Windows.
+Step 1: Run and complete the Minecraft Launcher Installer. 
 Step 2: Run and complete the Java Installer.
 Step 3: Open the Minecraft Launcher and sign in. To purchase account, go to "https://www.minecraft.net/store/minecraft-java-edition/buy". You should be able to log into your microsoft account from there and register! You can also alternatevly log into your Microsoft account, though it will be running the free version of Minecraft.
-Step 4: Check to make sure Minecraft 1.17.1/Latest Release, is selected. Run the game and wait for it to load, and then close it once loaded (you should be able to hear music playing when it has been loaded). This is because the Fabric Client Installer, the client that is capable of running these mods, requires that you run the latest version of Minecraft for it to properly install.
+Step 4: Check to make sure Minecraft - Latest Release, is selected. Run the game and wait for it to load, and then close it once loaded (you should be able to hear music playing when it has been loaded). This step is needed because the Fabric Client Installer, the client that is capable of running these mods, requires that you run the latest version of Minecraft atleast once for it to properly install.
 Step 5: Run the Fabric Client installer.
 Step 6: Move the provided "Mods" folder into "%appdata%/.minecraft"
 Step 7: Move the provided "options.txt" into "%appdata%/.minecraft"
 Step 8: Move both of the "NVDA Controller Client DLL" files into "%appdata%/.minecraft". This is for if you use the amazing NVDA application for using your pc. If you don't, you cannot change the speech rate of the built-in Minecraft Narrator.
-Step 9: Open The Minecraft Launcher. Make sure to select "Fabric-Loader-1.17.1" before you launch the game.
-Step 10: Press "Control Plus B" to enable and cycle through narrator options ingame.
+Step 9: Open The Minecraft Launcher. Make sure to select "Fabric-Loader-Versionnumber" before you launch the game.
+Step 10: After the game has launched, press "Control B" to cycle through narrator options ingame.
 Step 11: Select the singleplayer option to play by yourself, and press the listed buttons to toggle between options.
 
 KEYBIND HELP, ALL OF THESE CAN BE CHANGED IN 'Options, Controls'
@@ -43,7 +42,7 @@ W, moves up 1 row.
 S, woves down 1 row.
 A, moves left 1 column.
 D, moves right 1 column.
-TRADING MENU KEYS, THIS IS FOR VILLAGERS, SO IGNORE THIS PART IF YOU ARE JUST STARTING OUT:
+TRADING MENU KEYS, THIS IS FOR VILLAGERS:
 R, scroll up by 1.
 F, Scroll down by 1.
 RECIPE BOOK KEYS, The Recipe Book is for instantly crafting items. Clicking on the item you want to craft whilst inside of the recipe book will place all of the required ingredients into the correct order in your crafting grid, provided you have the required materials. This will also put the item you are trying to make into the Crafting Output slot on your inventory, navigated to via "tab" and "shift-tab".
@@ -52,7 +51,7 @@ F, previous page of the recipe book.
 C, toggles the recipe book menu being displayed.
 V, toggles between "show all" and "show craftable" options. "Show craftable" only shows items you can craft. You can take a guess on what "Show all" does.
 Enter, disables the searching mode of the recipe book. Re-open the book to go back to the searching mode.
-LECTERNS AND BOOKS KEYS, these keys currently don't matter as books currently cannot be used due to bugs, making it the same for lecterns.
+LECTERNS AND BOOKS KEYS:
 R, reads the current page.
 A, goes to the previous page.
 D, goes to the next page.
@@ -75,4 +74,4 @@ y, Makes your camera lock onto and follow the closest entity within 10 blocks. A
 OTHER: 
 If you need more help or want to give me feedback please message me on discord at GreenBeanGravy#4553. Also, make sure to read the other provided text files!
 
-Finally, I hope you have the best possible experience on Minecraft. If the game is currently only mildly playable, expect more in the future. This has been GreenBean, and have a nice rest of your day, Smiley Face.
+Finally, I hope you have the best possible experience on Minecraft. I am sorry this pack hasn't been updated in a while.
