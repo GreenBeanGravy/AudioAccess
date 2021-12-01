@@ -1,8 +1,8 @@
 Below are the instructions you need to play on the new and improved, public blind Minecraft Server. If you have questions or need help, feel free to contact me on AudioGames.net and Discord. You are more likely to get a faster response on Discord.
 
-Step 1: Make sure you have all of the up-to-date files from the GitHub page, if you see this text, you don't need to do anything.
-Step 2: Open Minecraft on Fabric 1.17.1! If you don't know how, follow the "setup.txt" file instructions and then come back.
-Step 3: Once the game has launched, head over to the multiplayer button using tab and then press enter. Minecraft may give you a warning about Mutliplayer, which you can safely skip past. If you are on Windows, a new window may have popped up asking if Java can use the internet, make sure to allow this.
+Step 1: Make sure you have all of the up-to-date files from the GitHub page.
+Step 2: Open Minecraft on Fabric 1.16 or above!
+Step 3: Once the game has launched, head over to the multiplayer button using tab and then press enter. Minecraft may give you a warning about Mutliplayer, which you can safely skip past.
 Step 4: Use Tab to locate the "Add Server" button.
 Step 5: From here, you can call the server whatever you like, but in the Server Address text field, type or copy paste this into it: blind.epicgamer.org
 Step 6: Ignore the Server Resource button, navigate to the "Done" button and press Enter.
@@ -20,6 +20,8 @@ You can use the command "/back" to go back to your death location when you die. 
 You can use the command "/jobs browse" to select a job you would like to join. Jobs give you money which will be used for a server shop in a few days time.
 You can use the command "/bal" to check your balance.
 You can use the command "/bottle store xpamount" to store xp levels into bottles, which can be used to give xp to other players.
+You can use the command "/near" to locate nearby players.
+You can use the command "/recipe itemname" to find out the recipe for items of your choice.
 
 Quality of Life server addons:
 Auto Pickup block drops, xp drops, and mob drops.
